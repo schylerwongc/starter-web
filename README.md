@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 Modified for Test Comparison
 
+## How To Contribute
+
+Contribute
+
 ## Copyright
 
 copyright notice
