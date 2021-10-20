@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Closing
 
 Modified for Test Comparison
+
+## Copyright
+
+copyright notice
